@@ -6,7 +6,5 @@ Installation
 1. Clone this repository
    git clone https://github.com/hritikk47/Voice-Assistant-ChatGpt
 2. Install the required libraries
-   pip install openai
-   pip install pyaudio
-   pip install speechrecognition
+   pip install openai pyaudio SpeechRecognition
 3. Run python voice_gpt.py
